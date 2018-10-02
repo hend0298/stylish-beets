@@ -9,12 +9,11 @@ h1, h2 {
   font-weight: 700;
   font-size: 1.5rem;
 }
-
-ol {
+li {
   color: #8f2440;
   font-family: "Pt Sans", sans-serif;
-  text-decoration: none;
   list-style-type: none;
+  text-decoration: none;
 }
 
 main {
@@ -53,4 +52,21 @@ blockquote {
 .ordered {
   color: #222;
   list-style-type: lower-greek;
+}
+
+.serving {
+  font-style: italic;
+}
+
+dt {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+.wiki {
+  color: #8f2440;
+  text-decoration: none;
 }
