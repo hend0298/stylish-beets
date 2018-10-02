@@ -13,13 +13,14 @@ h1, h2 {
 ol {
   color: #8f2440;
   font-family: "Pt Sans", sans-serif;
-  text-decoration: none
+  text-decoration: none;
   list-style-type: none;
 }
 
 main {
+  color: #222;
   font-family: 'PT Serif', serif;
-font-size: 1.125rem;
+  font-size: 1.125rem;
 }
 
 .germination {
@@ -37,4 +38,19 @@ figcaption {
   text-align: center;
   font-family: 'PT Serif', serif;
   font-style: italic;
+}
+
+blockquote {
+  font-family: "PT Serif", serif;
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.beets {
+  font-weight: normal;
+}
+
+.ordered {
+  color: #222;
+  list-style-type: lower-greek;
 }
