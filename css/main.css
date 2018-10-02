@@ -70,3 +70,15 @@ ul {
   color: #8f2440;
   text-decoration: none;
 }
+
+:link {
+color: #8f2440;
+font-family: "PT Sans", sans-serif;
+font-size: 1.125rem;
+font-weight: bold;
+text-decoration: none;
+}
+
+:hover {
+  color: #3f1622;
+}
