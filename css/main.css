@@ -28,3 +28,13 @@ font-size: 1.125rem;
   font-size: 1.125rem;
   font-weight: bold;
 }
+
+img {
+  width: 100%;
+}
+
+figcaption {
+  text-align: center;
+  font-family: 'PT Serif', serif;
+  font-style: italic;
+}
