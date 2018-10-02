@@ -89,11 +89,7 @@ a:active {
   color: #8f2440;
 }
 
-[link] {
+a {
   color: #8f2440;
-}
-
-[href^="http://wikipedia"] {
-  color: #8f2440;
-  font-size: 1.125rem;
+  text-decoration: none;
 }
